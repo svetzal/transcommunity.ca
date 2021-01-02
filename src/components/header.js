@@ -17,7 +17,7 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      <img src={Logo}/>
+      <h1>TransCommunity.ca</h1>
     </div>
   </header>
 )
