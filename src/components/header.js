@@ -11,12 +11,15 @@ const Header = ({ siteTitle }) => (
     <div
       style={{
         margin: `0 auto`,
-        maxWidth: 400,
-        height: 120,
+        maxWidth: 600,
+        height: 100,
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      <h1>TransCommunity.ca</h1>
+      <h1
+        style={{
+          color: `white`
+        }}>TransCommunity.ca</h1>
     </div>
   </header>
 )
