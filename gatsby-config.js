@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `CodingCulture.io`,
-    description: `Software Coaching Programs`,
-    author: `Mojility Inc`,
+    title: `TransCommunity.ca`,
+    description: `A Reserved Space for Trans Community in Canada`,
+    author: `Stacey Vetzal`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
